@@ -29,7 +29,7 @@
           <string>C</string>
         </entry>
       </elementAttributes>
-      <pos x="220" y="-20"/>
+      <pos x="260" y="-20"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -43,7 +43,7 @@
           <string>B</string>
         </entry>
       </elementAttributes>
-      <pos x="260" y="-20"/>
+      <pos x="220" y="-20"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -130,7 +130,7 @@ D as the least-significant bit.</string>
           </testData>
         </entry>
       </elementAttributes>
-      <pos x="700" y="-180"/>
+      <pos x="680" y="-180"/>
     </visualElement>
     <visualElement>
       <elementName>Text</elementName>
@@ -208,7 +208,7 @@ S is strobe.  When strobe is high the output is always low,
     </wire>
     <wire>
       <p1 x="160" y="40"/>
-      <p2 x="260" y="40"/>
+      <p2 x="220" y="40"/>
     </wire>
     <wire>
       <p1 x="-200" y="-140"/>
@@ -224,7 +224,7 @@ S is strobe.  When strobe is high the output is always low,
     </wire>
     <wire>
       <p1 x="200" y="60"/>
-      <p2 x="220" y="60"/>
+      <p2 x="260" y="60"/>
     </wire>
     <wire>
       <p1 x="0" y="60"/>
@@ -252,7 +252,7 @@ S is strobe.  When strobe is high the output is always low,
     </wire>
     <wire>
       <p1 x="260" y="-20"/>
-      <p2 x="260" y="40"/>
+      <p2 x="260" y="60"/>
     </wire>
     <wire>
       <p1 x="-40" y="-20"/>
@@ -324,7 +324,7 @@ S is strobe.  When strobe is high the output is always low,
     </wire>
     <wire>
       <p1 x="220" y="-20"/>
-      <p2 x="220" y="60"/>
+      <p2 x="220" y="40"/>
     </wire>
   </wires>
   <measurementOrdering/>
